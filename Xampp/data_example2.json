@@ -1,0 +1,124 @@
+[
+  {
+    "product_id": 6,
+    "product_name": "api_testZERO",
+    "prices": {
+      "1": {
+        "price_purchase": 100,
+        "price_selling": 200,
+        "price_discount": 300
+      },
+      "2": {
+        "price_purchase": 100022222,
+        "price_selling": 12002222,
+        "price_discount": 110022222
+      }
+    }
+  },
+  {
+    "product_id": 111,
+    "product_name": "tovar_api_test11",
+    "prices": {
+      "1": {
+        "price_purchase": 20001,
+        "price_selling": 22001,
+        "price_discount": 21001
+      },
+      "2": {
+        "price_purchase": 20002,
+        "price_selling": 22002,
+        "price_discount": 21002
+      },
+      "3": {
+        "price_purchase": 20003,
+        "price_selling": 22003,
+        "price_discount": 21003
+      },
+      "4": {
+        "price_purchase": 20004,
+        "price_selling": 22004,
+        "price_discount": 21004
+      },
+      "5": {
+        "price_purchase": 20005,
+        "price_selling": 22005,
+        "price_discount": 21005
+      },
+      "6": {
+        "price_purchase": 20006,
+        "price_selling": 22006,
+        "price_discount": 21006
+      },
+      "7": {
+        "price_purchase": 20007,
+        "price_selling": 22007,
+        "price_discount": 21007
+      },
+      "8": {
+        "price_purchase": 20008,
+        "price_selling": 22008,
+        "price_discount": 21008
+      },
+      "9": {
+        "price_purchase": 20009,
+        "price_selling": 22009,
+        "price_discount": 21009
+      },
+      "10": {
+        "price_purchase": 20010,
+        "price_selling": 22010,
+        "price_discount": 21010
+      },
+      "11": {
+        "price_purchase": 20011,
+        "price_selling": 22011,
+        "price_discount": 21011
+      },
+      "12": {
+        "price_purchase": 20012,
+        "price_selling": 22012,
+        "price_discount": 21012
+      },
+      "13": {
+        "price_purchase": 20013,
+        "price_selling": 22013,
+        "price_discount": 21013
+      },
+      "14": {
+        "price_purchase": 20014,
+        "price_selling": 22014,
+        "price_discount": 21014
+      },
+      "15": {
+        "price_purchase": 20015,
+        "price_selling": 22015,
+        "price_discount": 21015
+      },
+      "16": {
+        "price_purchase": 20016,
+        "price_selling": 22016,
+        "price_discount": 21016
+      },
+      "17": {
+        "price_purchase": 20017,
+        "price_selling": 22017,
+        "price_discount": 21017
+      },
+      "18": {
+        "price_purchase": 20018,
+        "price_selling": 22018,
+        "price_discount": 21018
+      },
+      "19": {
+        "price_purchase": 20019,
+        "price_selling": 22019,
+        "price_discount": 21019
+      },
+      "20": {
+        "price_purchase": 20020,
+        "price_selling": 22020,
+        "price_discount": 21020
+      }
+    }
+  }
+]
